@@ -1,0 +1,33 @@
+{
+  "name": "vidly_rest_service",
+  "version": "1.0.0",
+  "description": "This is a folder for mosh course on Rest API with Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll  --verbose",
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Abazie Udochukwu",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "config": "^3.3.8",
+    "cors": "^2.8.5",
+    "debug": "^4.3.4",
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.6",
+    "fawn": "^2.1.5",
+    "joi": "^17.6.4",
+    "joi-objectid": "^4.0.2",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.7.1",
+    "winston": "^3.8.2"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1",
+    "supertest": "^6.3.1"
+  }
+}

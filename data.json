@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Action",
+        "tags": [
+            "HBO","Disney","Marvel","Youtube","Life is Good"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Crime",
+        "tags": [
+            "HBO","Disney","Marvel","Youtube","Life is Good"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Animation",
+        "tags": [
+            "HBO","Disney","Marvel","Youtube","Life is Good"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Comedy",
+        "tags": [
+            "HBO","Disney","Marvel","Youtube","Life is Good"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Fantasy",
+        "tags": [
+            "HBO","Disney","Marvel","Youtube","Life is Good"
+        ]
+    }
+  
+]
